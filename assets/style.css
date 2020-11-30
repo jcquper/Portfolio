@@ -3,8 +3,11 @@
 body {
 	  background-color: white ;
 	  font-family: 'Texturina', serif;
-    }
-    /* All cards needed padding */
+	}
+#nav{
+	background-color: #869E7C;
+}
+  /* All cards needed padding */
 .card{
       padding: 7%;
     }
