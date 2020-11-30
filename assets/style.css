@@ -1,0 +1,26 @@
+/* STYLES */
+body {
+	  background-color: white ;
+	  font-family: 'Texturina', serif;
+    }
+    /* All cards needed padding */
+.card{
+      padding: 7%;
+    }
+.extended-content-container{
+  text-align: center;
+}
+
+#title2{
+  font-family: 'Roboto Mono', monospace;
+  text-align: left;
+}
+/* Footer */
+footer{
+  margin-top: 100%;
+}
+.footer-copyright{
+  padding: 30%;
+  letter-spacing: 8px;
+  margin-left: 15%;
+}
